@@ -1,0 +1,2 @@
+php artisan make:model CampBenefits -m
+-> code untuk membuat file model dan migration secara bersamaan
