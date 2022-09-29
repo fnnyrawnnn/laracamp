@@ -1,2 +1,5 @@
 php artisan make:model CampBenefits -m
 -> code untuk membuat file model dan migration secara bersamaan
+
+php artisan db:seed
+-> code untuk up seeder ke db
