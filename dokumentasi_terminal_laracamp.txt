@@ -3,3 +3,7 @@ php artisan make:model CampBenefits -m
 
 php artisan db:seed
 -> code untuk up seeder ke db
+
+php artisan migrate:fresh --seed
+-> code untuk merefresh seed pada db, baik dilakukan saat proses develop(db msh kosong)
+
